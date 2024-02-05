@@ -6,8 +6,8 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## Notas
 Pueden hacer lo que quieran...
 
-### Actualizado desde github
-cambios realizados desde github, no desde vscode
+### actualizacion desde vs code
+se hicieron cambios desde vs code
 
 
 ### actualizado desde githu otra ves
