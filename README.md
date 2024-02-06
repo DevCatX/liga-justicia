@@ -12,3 +12,4 @@ se hicieron cambios desde vs code
 
 ### actualizado desde githu otra ves
 camilo lanza quesito, gusanotron, mondongo, babache, la bansa, la moffin, el chimuelo, mis gatos
+camilo lanza quesito, chimuelo, babache, mondongo, bancita, la mofin y gusanotron
